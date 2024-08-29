@@ -1,0 +1,5 @@
+spring:
+  application:
+    name: asyncdemo
+server:
+  port: 8099
